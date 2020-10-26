@@ -11,6 +11,10 @@ h1 strong i{
     color: rgb(0, 174, 255);
 }
 
+.text-main-color{
+        color: rgb(0, 174, 255);
+}
+
 .card{
     border: none;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.014);
