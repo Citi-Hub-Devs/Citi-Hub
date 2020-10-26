@@ -1,6 +1,23 @@
 .landing-bg{
-    background: linear-gradient(to right, white, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg');
+    /* background: linear-gradient(to right, white, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
+    background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 
+}
+
+h1 strong i{
+    color: rgb(0, 174, 255);
+}
+
+.card{
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.014);
+}
+
+.card:hover{
+    /* border: none; */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
+    transition: 1s;
 }
