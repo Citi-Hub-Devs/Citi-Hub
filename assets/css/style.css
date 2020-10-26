@@ -1,0 +1,6 @@
+.landing-bg{
+    background: linear-gradient(to right, white, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
