@@ -1,10 +1,30 @@
 .landing-bg{
     /* background: linear-gradient(to right, white, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
-    background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg');
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.712)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jason-wong-bYoRZI30nEI-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jess-bailey-q10VITrVYUM-unsplash.jpg'); */
+
+
+    background:  url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg');
+    /* background:  url('../img/beverage.jpg'); */
+    /* background:  url('../img/img_1.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+
+}
+
+.text-gray{
+    color: grey;
+}
+
+.overlay-bg{
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.712), rgba(255, 255, 255, 0.712)), url('../img/jess-bailey-q10VITrVYUM-unsplash.jpg');
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jason-wong-bYoRZI30nEI-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jess-bailey-q10VITrVYUM-unsplash.jpg'); */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-
 }
 
 h1 strong i{
@@ -34,5 +54,11 @@ h1 strong i{
     height: 300px;
     /* width: 150px; */
     /* height: 75px; */
-    margin: 2px;
+    margin: 1px;
+}
+
+@media screen and (max-width:700px){
+    .floating-box{
+        width: 270px;
+    }
 }

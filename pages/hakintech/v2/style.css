@@ -1,0 +1,14 @@
+.landing-bg{
+    /* background: linear-gradient(to right, white, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.712)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jason-wong-bYoRZI30nEI-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jess-bailey-q10VITrVYUM-unsplash.jpg'); */
+
+
+    background: linear-gradient(to right,  rgba(8, 6, 6, 0.418), rgba(8,6,6, 0.418)),  url('../../../assets/img/hero_1.jpg');
+    /* background:  url('../img/img_1.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
