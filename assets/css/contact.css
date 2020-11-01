@@ -1,0 +1,90 @@
+.landing-bg{
+    /* background: linear-gradient(to right, white, white, rgba(255, 255, 255, 0.1)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.712)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jason-wong-bYoRZI30nEI-unsplash.jpg'); */
+    /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jess-bailey-q10VITrVYUM-unsplash.jpg'); */
+
+
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.726), rgba(0, 0, 0, 0.726)), url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg');
+    /* background:  url('../img/beverage.jpg'); */
+    /* background:  url('../img/img_1.jpg'); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+
+.tatsu-gfq5wa1puddmmenw input[type="text"] {
+    height: 55px;
+}
+
+.contact_form_module input[type="text"], .contact_form_module textarea {
+    font: 400 13px "Montserrat","Open Sans","Arial",sans-serif;
+    color: #222222;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-transform: none;
+}
+
+.contact_form input[type=text] {
+    width: 100%;
+    margin-bottom: 30px!important;
+}
+
+
+.sec-border, input[type="text"], input[type="email"], input[type="tel"], input[type="password"], textarea {
+    border: 2px solid #eeeeee;
+}
+
+
+textarea {
+    padding: 10px 0 0 10px;
+    height: 200px;
+    width: 100%;
+    margin-bottom: 20px;
+    overflow: auto;
+    font-size: inherit;
+    color: inherit;
+    font: inherit;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background: transparent;
+}
+
+
+.button-shape-circular input[type=submit].mediumbtn {
+    padding: 15px 30px;
+}
+input[type=submit].mediumbtn {
+    font-size: 13px;
+    line-height: 14px;
+    padding: 15px 20px;
+}
+
+
+.tatsu-button, .be-button, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, input[type="submit"], .more-link.style1-button, .more-link.style2-button, .more-link.style3-button, input[type="button"], input[type="submit"], input[type="reset"], button, input[type="file"]::-webkit-file-upload-button {
+    font-family: Montserrat;
+}
+
+
+.action-button .be-button, button, input[type=button], input[type=reset], input[type=submit] {
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 20px 10px 0;
+    text-decoration: none;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    font-size: 12px;
+    line-height: 12px;
+    padding: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+input[type=email], input[type=file], input[type=number], input[type=password], input[type=submit], input[type=text], textarea {
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+}
