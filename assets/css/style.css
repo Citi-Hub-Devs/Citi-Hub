@@ -5,7 +5,8 @@
     /* background: linear-gradient(to right, white, rgba(255, 255, 255, 0.1)), url('../img/jess-bailey-q10VITrVYUM-unsplash.jpg'); */
 
 
-    background:  url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg');
+    /* background:  url('../img/nordwood-themes-kRNZiGKtz48-unsplash.jpg'); */
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.692), rgba(0, 0, 0, 0.692)), url('../img/workstation.jpg');
     /* background:  url('../img/beverage.jpg'); */
     /* background:  url('../img/img_1.jpg'); */
     background-size: cover;
